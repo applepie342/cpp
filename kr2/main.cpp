@@ -1,7 +1,7 @@
 #include "school.h"
 #include<iostream>
 using namespace std;
-
+  
 
 int main() {
     School school;
