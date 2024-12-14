@@ -8,7 +8,7 @@ public:
     IPerson(string name);
     virtual ~IPerson();
 
-    virtual void display(); // чисто виртуальная функция
+    virtual void display();
     
 private:
     string _name;

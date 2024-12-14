@@ -8,6 +8,6 @@ void Schedule::display() {
 	setlocale(LC_ALL, "");
 	cout << "Предмет: " << _subject << endl
 		<< "Учитель: " << _teacher << endl
-		<< "Начало:" << _time << endl
+		<< "Время: " << _time << endl
 		<< "_______________________________" << endl;
 }
